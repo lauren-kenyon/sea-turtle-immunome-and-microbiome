@@ -44,4 +44,17 @@
 - MDS_or_Kmeans 
   - Visualize results of Microbial Analysis by TS between individuals using an MDS plot
 
+# Important links/hackmds
 
+Overall project hackmd: https://hackmd.io/hkPu-fbuRMu8zp7v9NhQ-A?edit
+
+Trinotate pipeline: https://hackmd.io/v5CYlWM-RBaA0A5TlySsjg
+
+Creating immunome: https://hackmd.io/76f_GZKnQ6Gl9uAslL5xzA?both
+
+
+## Microbial-related pipelines
+
+Microbial characterization of transcriptomes pipeline: https://hackmd.io/SH-2SWL1RmWvE0JXHJ8igg
+
+Microbial analysis by tumor score: https://hackmd.io/ATlxYyZSSvewGez9wwPw6g
